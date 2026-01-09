@@ -1,2 +1,4 @@
 # Ignore trained models
 *.pkl
+# Ignore datasets (large files, auto-downloaded)
+datasets/
